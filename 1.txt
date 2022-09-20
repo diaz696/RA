@@ -1,2 +1,3 @@
 archivo 1
-|
+
+Hola|

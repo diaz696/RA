@@ -25,3 +25,17 @@ $ git tag -a v0.1 -m 'Primer tag'
 $ git add .
 $ git commit -m "Primer tag v0.1"
 $ git push
+
+
+#segunda rama
+$ git branch v0.2
+$ git checkout v0.2
+$ vi 2.txt
+$ git add .
+$ git commit -m "v0.2"
+$ git push --set-upstream origin v0.2
+
+
+#merge directo
+$ git checkout main
+$ git merge v0.2
