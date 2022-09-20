@@ -39,3 +39,14 @@ $ git push --set-upstream origin v0.2
 #merge directo
 $ git checkout main
 $ git merge v0.2
+$ vi 1.txt  //Hola
+$ git add .
+$ git commit -m "Hola"
+$ git checkout v0.2
+$ git vi 1.txt //Adios bye
+$ git add .
+$ git commit -m "Bye"
+git checkout main
+git merge v0.2 //conflicto
+
+$ git branch --track
