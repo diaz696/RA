@@ -1,8 +1,4 @@
 archivo 1
 
-<<<<<<< HEAD
 Hola
-=======
-Adios bye
->>>>>>> v0.2
 
