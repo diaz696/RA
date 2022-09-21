@@ -68,3 +68,42 @@ $ git tag -a v0.2 -m 'Segundo tag'
 $ git branch -D v0.2
 
 $ git log
+
+
+############Segunda parte###################
+
+#Cuenta de github
+![imagen-cuenta.png](imagenes/imagen-cuenta.png)
+![habilitar.png](imagenes/habilitar.png)
+![sms.png](imagenes/sms.png)
+![descarga.png](imagenes/descarga.png)
+![activado.png](imagenes/activado.png)
+![activado2.png](imagenes/activado2.png)
+
+#Seguir cuentas
+![angel.png](imagenes/angel.png)
+![angel1.png](imagenes/angel1.png)
+![jocelyn.png](imagenes/jocelyn.png)
+![jocelyn1.png](imagenes/jocelyn1.png)
+![geronimo.png](imagenes/geronimo.png)
+![geronimo1.png](imagenes/geronimo1.png)
+![amadeo.png](imagenes/amadeo.png)
+
+
+#Tabla
+
+|Nombre|GitHub|
+|--------------------|
+|Ángel Sebastián| AngelSebastianGarciaSosa|
+|Jocelyn Rodríguez| JocelynRdzPon|
+|Gerónimo Martínez| GeronimoMtz|
+
+#Colaboradores
+![colaborador.png](imagenes/colaborador.png)
+
+#Organización
+![crear1.png](imagenes/crear1.png)
+![crear2.png](imagenes/crear2.png)
+![crear3.png](imagenes/crear3.png)
+![administradores.png](imagenes/adminstradores.png)
+![colaboradores.png](imagenes/colaboradores.png)
