@@ -50,3 +50,21 @@ git checkout main
 git merge v0.2 //conflicto
 
 $ git branch --track
+
+#solución a conflicto en main y v0.2
+$ vi 1.txt
+$ git add .
+$ git commit -m "solución de conflicto Hola"
+$ git checkout v0.2
+$ vi 1.txt
+$ git add .
+$ git commit -m "solución al conflicto v0.2 hola"
+$ git checkout main
+$ git merge v0.2
+$ git push
+
+#Segundo tag y delete v0.2
+$ git tag -a v0.2 -m 'Segundo tag'
+$ git branch -D v0.2
+
+$ git log
